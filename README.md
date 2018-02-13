@@ -1,4 +1,7 @@
-# linux_config_files
+# dotfiles
+
+## python.vim setup
+Python.vim adjusted multi-line string to pull from sql.vim. Change if throwing errors.
 
 .
 
