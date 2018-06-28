@@ -16,7 +16,6 @@ set nowrap
 set smartcase
 " 
 
-
 " Enable folding
 set foldmethod=indent
 set foldlevel=99
