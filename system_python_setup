@@ -1,0 +1,6 @@
+# get python3.5
+
+# get pip
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python3.5 get-pip.py
