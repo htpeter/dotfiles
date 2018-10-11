@@ -1,6 +1,11 @@
-# get python3.5
-
+# get anaconda because it has CPU optimized versions of numpy, etc
+cd /tmp
+curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+bash Anaconda3-5.2.0-Linux-x86_64.sh
+sha256sum Anaconda3-5.2.0-Linux-x86_64.sh
+# 09f53738b0cd3bb96f5b1bac488e5528df9906be2480fe61df40e0e0d19e3d48  Anaconda3-5.2.0-Linux-x86_64.sh
+# set it in your ~/.bashrc
 # get pip
+cd ~/
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-
-python3.5 get-pip.py
+python get-pip.py
