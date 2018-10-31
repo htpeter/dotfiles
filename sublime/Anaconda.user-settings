@@ -1,0 +1,6 @@
+{
+	"pep8": false,
+	"anaconda_linting": false,
+	"anaconda_linter_mark_style": "none",
+	"python_interpreter": "/anaconda3/envs/dl36/bin/python3.6",
+}
