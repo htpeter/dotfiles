@@ -1,5 +1,7 @@
 " basic coloring
 syntax off
+" color dracula
+hi Normal ctermbg=NONE
 highlight LineNr ctermfg=yellow
 filetype indent plugin on
 
