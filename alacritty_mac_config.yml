@@ -1,0 +1,9 @@
+font:
+  normal:
+    family: JetBrains Mono
+  size: 13
+    
+key_bindings:
+  - { key: Left,     mods: Option, chars: "\x1b[1;5D"                   }
+  - { key: Right,    mods: Option, chars: "\x1b[1;5C"                   }
+  
